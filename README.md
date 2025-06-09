@@ -2,6 +2,9 @@
 ### Project Overview
 Customer churn is a key concern for telecom companies, as it directly impacts revenue and profitability. This project analyzes Telecom Customer Churn trends using Excel, SQL, Power BI, and Python to uncover insights and propose retention strategies.
 
+![Screenshot 2025-06-09 204814](https://github.com/user-attachments/assets/3dac0e08-878c-480b-bbfb-fcee79aa1635)
+
+
 ---
 
 ### Objectives
